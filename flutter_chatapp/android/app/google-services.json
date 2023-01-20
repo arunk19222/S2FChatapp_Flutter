@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "834629615686",
+    "firebase_url": "https://realtimeflutterdatabasev2-default-rtdb.firebaseio.com",
+    "project_id": "realtimeflutterdatabasev2",
+    "storage_bucket": "realtimeflutterdatabasev2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834629615686:android:a4bf182143c094a4deca47",
+        "android_client_info": {
+          "package_name": "com.example.flutter_chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834629615686-pk7ikh6k9jc5imn9j6b98ckg2fjgcr2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKUQiV9yh8oyuhRxUgobqWMDxfnj1B32c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834629615686-pk7ikh6k9jc5imn9j6b98ckg2fjgcr2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834629615686:android:7e3dbe3e23e0128adeca47",
+        "android_client_info": {
+          "package_name": "com.example.realtime_database_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834629615686-pk7ikh6k9jc5imn9j6b98ckg2fjgcr2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKUQiV9yh8oyuhRxUgobqWMDxfnj1B32c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834629615686-pk7ikh6k9jc5imn9j6b98ckg2fjgcr2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
